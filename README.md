@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 from statsmodels.tsa.seasonal import seasonal_decompose
 
 
-df = pd.read_csv('Meta_stock.csv') 
+df = pd.read_csv('NVIDIA_stock.csv') 
 
 print(df.head())
 
